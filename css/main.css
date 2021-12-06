@@ -144,6 +144,13 @@ h1 {
     text-transform: uppercase;
 }
 
+h2 {
+    font-family: "Trebuchet MS", sans-serif;
+    color:rgb(255, 255, 255);
+    font-size: 1em;
+    text-transform: uppercase;
+    text-align: center;
+}
 
 
 
